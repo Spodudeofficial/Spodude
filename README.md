@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Spodude+Music+Streaming+App;Ad-Free+%7C+Personal+%7C+Open+Source;Built+by+Tamilan+%26+Salem" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Spodude+Music+Streaming+App;Ad-Free+%7C+Personal+%7C+Open+Source;Built+by+TamilNadu+Salem" />
 
 </p>
 
